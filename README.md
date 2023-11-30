@@ -1,5 +1,6 @@
-JSON API сервис.
-Пример отправки запроса:
+#JSON API examples.
+
+## Request
 ```
 [
     {
@@ -13,8 +14,7 @@ JSON API сервис.
 ]
 ```
 
-
-Пример получения ответа на запрос:
+## Response
 ```
 {
     "success": true,
